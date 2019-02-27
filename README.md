@@ -7,3 +7,5 @@ Basic burger menu that uses a GUI to display different prices of burgers dependi
 *Using constructors
 
 *Abstract class
+
+*Usage of subclasses

@@ -1,7 +1,3 @@
-// Sean Lynch
-// Contact: smlynch115@gmail.com
-// ID: 991258406
-// Date: 10/3/18
 // This program reads other subclasses and creates a burger menu for differen countries 
 
 public class myBurger211 {

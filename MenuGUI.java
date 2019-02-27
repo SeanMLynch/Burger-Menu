@@ -3,7 +3,7 @@ import java.awt.*;
 import javax.swing.*;
 
 public class MenuGUI {
-	final int W=800,H=600;//width and height of JFrame
+	final int W=800,H=600;
 	private JFrame f; 
     	private JPanel p,imageData;
      	private JLabel title,b1,b2,b3,topping1,topping2,topping3,ad,CS211;
